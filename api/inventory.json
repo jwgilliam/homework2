@@ -1,0 +1,28 @@
+{
+  "inventories": [
+    {
+      "name": "test",
+      "weapons": "test",
+      "armor": "test",
+      "equipment": "test",
+      "gold": 123,
+      "id": 1
+    },
+    {
+      "name": "test",
+      "weapons": "test",
+      "armor": "test",
+      "equipment": "test",
+      "gold": 123,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "weapons": "test",
+      "armor": "test",
+      "equipment": "test",
+      "gold": 123,
+      "id": 3
+    }
+  ]
+}
