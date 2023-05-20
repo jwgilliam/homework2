@@ -23,6 +23,14 @@
       "equipment": "test",
       "gold": 123,
       "id": 3
+    },
+    {
+      "name": "Korbo",
+      "weapons": "battleaxe of slaying",
+      "armor": "+2 armor of frost resistance ",
+      "equipment": "7,000 feet of rope",
+      "gold": "12",
+      "id": 4
     }
   ]
 }

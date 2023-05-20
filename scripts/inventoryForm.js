@@ -27,11 +27,11 @@ const inventoryFormComponent = () => {
   const render = () => {
     contentTarget.innerHTML = `
     <div>
-    <div class="inventory-field">Title: <input type="text" id ="inventory-name"></div>
-    <div class="inventory-field">Text: <input type="text" id="inventory-weapons"></div>
-    <div class="inventory-field">Text: <input type="text" id="inventory-armor"></div>
-    <div class="inventory-field">Text: <input type="text" id="inventory-equipment"></div>
-    <div class="inventory-field">Text: <input type="text" id="inventory-gold"></div>
+    <div class="inventory-field">Name: <input type="text" id ="inventory-name"></div>
+    <div class="inventory-field">Weapons: <input type="text" id="inventory-weapons"></div>
+    <div class="inventory-field">Armor: <input type="text" id="inventory-armor"></div>
+    <div class="inventory-field">Equipment: <input type="text" id="inventory-equipment"></div>
+    <div class="inventory-field">Gold: <input type="text" id="inventory-gold"></div>
     <button id="save-inventory">Save Inventory</button>
     <button id="show-inventory">Show all inventories</button>
     </div>
