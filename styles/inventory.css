@@ -1,0 +1,21 @@
+.inventory-list-container {
+  display: flex;
+  flex-flow: row-wrap;
+  flex-basis: content;
+  padding: 10px;
+  color: antiquewhite
+}
+
+div {
+
+  border: 2px solid azure;
+  padding: 12px;
+}
+
+.inventory-form-container {
+  display: flex;
+  flex-flow: row-wrap;
+  flex-basis: content;
+  padding: 10px;
+  color: antiquewhite
+}

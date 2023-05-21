@@ -3,11 +3,11 @@ const inventoryComponent = (inventory) => {
 
   return `
     <div>
-      <div>${inventory.name}</div>
-      <div>${inventory.weapons}</div>
-      <div>${inventory.armor}</div>
-      <div>${inventory.equipment}</div>
-      <div>${inventory.gold}</div>
+      <div>Name: ${inventory.name}</div>
+      <div>Weapons: ${inventory.weapons}</div>
+      <div>Armor: ${inventory.armor}</div>
+      <div>Equipment: ${inventory.equipment}</div>
+      <div>Gold: ${inventory.gold}</div>
     </div>
   `
 }
